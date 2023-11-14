@@ -1,3 +1,3 @@
 # DemoProject1
 this is my first repository
-Author Ayush Singh
+Autho - Ayush Singh
